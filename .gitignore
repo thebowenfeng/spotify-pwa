@@ -1,0 +1,11 @@
+backend/__pycache__
+backend/bin
+backend/include
+backend/lib
+backend/share
+backend/CHANGES.rst
+backend/pyvenv.cfg
+backend/README.rst
+build
+node_modules
+.DS_Store
